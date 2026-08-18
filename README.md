@@ -1,6 +1,28 @@
-# Deep Learning Internship
-# About This Repository
+<div align="center">
 
+# Deep Learning Internship
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?logo=matplotlib)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
+</div>
+
+---
+
+# About This Repository
+<div align="center">
+
+**Learn • Apply • Build**
+
+Deep Learning Projects, Experiments & Hands-On Implementations
+
+</div>
 This repository contains the projects, hands-on exercises, and practical work completed during my **Deep Learning Internship**.
 
 During this internship, I followed a structured learning roadmap based on the **Learn → Apply → Build** approach. I developed a practical understanding of Deep Learning fundamentals and implemented different neural network architectures using real-world and synthetic datasets.
