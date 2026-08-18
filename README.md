@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="https://github.com/zaibshahzadi/DL-Internship/blob/main/DL-banner.png" alt="Deep Learning Internship Banner" width="100%">
+ 
 # Deep Learning Internship
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
